@@ -6,3 +6,4 @@
 
 ## HTTP 및 보안
 * [HTTPS에 대한 기초 이해](https://cheese10yun.github.io/https/)
+* [비둘기로 설명하는 HTTPS](https://www.vobour.com/%EB%B9%84%EB%91%98%EA%B8%B0%EB%A1%9C-%EC%84%A4%EB%AA%85%ED%95%98%EB%8A%94-https-https-explained-with-car)
